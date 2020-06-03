@@ -5,7 +5,7 @@ $ ./loadcpu
 
 |<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;loadCPU simple benchmark<br/>
-|&nbsp;&nbsp;&nbsp;&nbsp;load all cpu cores in parallel<br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;loads all cpu cores in parallel<br/>
 |<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;Stop using Ctrl-C<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;______________________________________________<br/>
