@@ -23,7 +23,7 @@ int main( void )
 \
 |\n\
 |	loadCPU simple benchmark\n\
-|	load all available cpu cores in parallel\n\
+|	loads all available cpu cores in parallel\n\
 |	\n\
 |	Stop using Ctrl-C\n\
 |	______________________________________________\n\
