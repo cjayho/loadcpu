@@ -1,5 +1,5 @@
 # loadcpu
-CPU stress test benchmark
+Maybe the simplest ever multithreaded CPU stress test benchmark for UNIX-like systems.
 
 $ ./loadcpu
 
